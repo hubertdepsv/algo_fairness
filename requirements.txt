@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+pandas_profiling
+sklearn
+xgboost
